@@ -14,4 +14,4 @@ For our Final Project, we decided that the best neighborhood in Pittsburgh would
 3. City Bridges - records the start and end neighborhoods of each bridge in the city of Pittsburgh
 
 ## Overview
-This repos
+This repository is for our Big Ideas Final Project depicting the best neighborhood in Pittsburgh based on a singular metric. For our project, we decided that our metric would be the best neighborhood to film Cars 4.
