@@ -5,7 +5,7 @@ Lightning McQueen
 
 ## Team Members:
 1. Nora Richardson - nrr47@pitt.edu
-2. Layla Al Obaidi
+2. Layla Al Obaidi - lya11@pitt.edu
 
 ## Decription and Datasets:
 For our Final Project, we decided that the best neighborhood in Pittsburgh would be the neighborhood best suited to film the next Cars movie. This neighborhood must have minimal speed bumps, minimal traffic lights, and scenic routes (bridges) to optimize the movie's success. The datasets we are:
