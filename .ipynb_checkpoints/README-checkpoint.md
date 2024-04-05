@@ -8,7 +8,7 @@ Lightning McQueen
 2. Layla Al Obaidi - lya11@pitt.edu
 
 ## Decription and Datasets:
-For our Final Project, we decided that the best neighborhood in Pittsburgh would be the neighborhood best suited to film the next Cars movie. This neighborhood must have minimal speed bumps, minimal traffic lights, and scenic routes (bridges) to optimize the movie's success. The datasets we are:
+For our Final Project, we decided that the best neighborhood in Pittsburgh would be the neighborhood best suited to film the next Cars movie. This neighborhood must have minimal speed bumps, minimal traffic lights, and scenic routes (bridges) to optimize the movie's success. The datasets we selected are:
 1. Speed Humps - records the speed bumps within each neighborhood
 2. City Traffic Signs - records the number of traffic signs/lights in each neighborhood
 3. City Bridges - records the start and end neighborhoods of each bridge in the city of Pittsburgh
