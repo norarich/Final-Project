@@ -1,0 +1,154 @@
+﻿_id,id,name,start_neighborhood,end_neighborhood,year_built,year_rehab,image,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1,2002832442,Fort Duquesne Blvd,Central Business District,,,,,Central Business District,6,2,42003020100,6,2,2,1-3,40.44644976,-79.99653699
+2,761156487,28th Street Bridge,Strip District,Polish Hill,1931,1974,https://tools.wprdc.org/images/pittsburgh/bridges/28th_Street_Bridge.jpg,Strip District,7,6,42003060500,6,6,2,2-25,40.45618151,-79.97371428
+3,290122944,Second Avenue Bridge,Squirrel Hill South,Swisshelm Park,1886,1970,,Swisshelm Park,5,14,42003141400,3,14,4,2-12,40.41521024,-79.91569856
+4,1811170969,Alexander Street Bridge,West End,,1924,2000,https://tools.wprdc.org/images/pittsburgh/bridges/Alexander_Street_Bridge.jpg,West End,2,20,42003562600,5,20,6,1-17,40.44006253,-80.03335308
+5,2047190591,Millvale Trail Pedestrian Bridge,Troy Hill,,,,,Troy Hill,1,24,42003240600,1,24,1,1-1,40.4665857,-79.97773145
+6,265798676,Anderson Playground Pedestrian Tunnel,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43506414,-79.94735781
+7,886744744,Ansonia Place Bridge,Brookline,,1925,1925,https://tools.wprdc.org/images/pittsburgh/bridges/Ansonia_Place_Bridge.jpg,Brookline,4,32,42003320600,5,32,6,4-25,40.39451111,-79.99756189
+8,1942222929,Arcata Street Bridge,Overbrook,,,,,Overbrook,4,32,42003320700,5,32,3,4-25,40.37676593,-79.99451188
+9,1811658780,Bajo Street Bridge Off Becks Run Rd,Arlington,,1900,1900,,Arlington,3,16,42003561600,3,16,3,4-13,40.40970917,-79.96363621
+10,1887633011,Baldwick Road Bridge 1,Oakwood,,1929,1985,https://tools.wprdc.org/images/pittsburgh/bridges/Baldwick_Road_Bridge_1.jpg,Oakwood,2,28,42003562800,5,28,6,1-19,40.42714991,-80.06197044
+11,476622411,Baldwick Road Bridge 2,Oakwood,,1929,1929,https://tools.wprdc.org/images/pittsburgh/bridges/Baldwick_Road_Bridge_2.jpg,Oakwood,2,28,42003562800,5,28,6,1-19,40.42671144,-80.05986087
+12,1097386435,Baldwick Road Bridge 3,Oakwood,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Baldwick_Road_Bridge_3.jpg,Oakwood,2,28,42003562800,5,28,6,1-19,40.42656136,-80.05703852
+13,638279888,Baum Boulevard Bridge,Bloomfield,Shadyside,1913,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Baum_Boulevard_Bridge.jpg,Bloomfield,7,8,42003080400,2,8,4,3-1,40.45530147,-79.94413672
+14,1395820472,Greenfield Bridge,Greenfield,Squirrel Hill South,2017,2017,,Greenfield,5,15,42003151700,3,15,4,2-12,40.42839587,-79.93793612
+15,916357398,Bloomfield Pedestrian Bridge,Polish Hill,,1986,1986,,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45876231,-79.9576986
+16,1653197563,Bigelow Boulevard Underpass,Polish Hill,North Oakland,1986,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Bigelow_Boulevard_Underpass.jpg,Polish Hill,6,5,42003060500,3,5,4,2-6,40.4588021,-79.95740891
+17,100374440,Bloomfield Bridge,Bloomfield,,1986,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Bloomfield_Bridge.jpg,Lower Lawrenceville,7,8,42003060300,2,8,2,3-1,40.46129565,-79.9550919
+18,837715899,Schenley Park Bridle Trail 1,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43309349,-79.94757475
+19,2096249888,Schenley Park Bridle Trail 2,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43155615,-79.94841998
+20,1474894314,Brighton Heights Boulevard Bridge,Brighton Heights,,1930,1980,https://tools.wprdc.org/images/pittsburgh/bridges/Brighton_Heights_Boulevard_Bridge.jpg,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48147893,-80.0423415
+21,1422005607,Calera Street Bridge 1,Hays,,1930,1984,https://tools.wprdc.org/images/pittsburgh/bridges/Calera_Street_Bridge_1.jpg,Hays,5,31,42003562900,3,31,4,4-20,40.38294129,-79.93294841
+22,1163914043,Calera Street Bridge 2,Hays,,1930,1984,https://tools.wprdc.org/images/pittsburgh/bridges/Calera_Street_Bridge_2.jpg,Hays,5,31,42003562900,3,31,4,4-20,40.38356223,-79.93286906
+23,204581168,Fallowfield Station LRT Viaduct Sidewalk,Beechview,,,,,Beechview,4,19,42003191600,5,19,6,4-28,40.41113661,-80.02199846
+24,98560992,Carnahan Road at Banksville Rd,Banksville,,1909,2021,,Banksville,2,20,42003202300,5,20,6,4-9,40.40714858,-80.03434494
+25,471129992,Centre Avenue Bridge,Shadyside,Bloomfield,1978,1978,https://tools.wprdc.org/images/pittsburgh/bridges/Centre_Avenue_Bridge.jpg,Shadyside,8,7,42003070900,2,7,4,3-1,40.45459454,-79.9430156
+26,1368360254,Charles Anderson Bridge,Squirrel Hill South,South Oakland,1938,1987,https://tools.wprdc.org/images/pittsburgh/bridges/Charles_Anderson_Bridge.jpg,Central Oakland,3,4,42003040600,3,4,4,2-8,40.43442212,-79.95013442
+27,2094754790,Charles J. Lieberth Pedestrian Bridge,Troy Hill,,1998,1998,https://tools.wprdc.org/images/pittsburgh/bridges/Charles_J._Lieberth_Pedestrian_Bridge.jpg,Troy Hill,1,23,42003240600,1,23,1,1-5,40.45630722,-79.99132529
+28,1920929766,Chartiers Avenue Bridge,Sheraden,,1908,1908,https://tools.wprdc.org/images/pittsburgh/bridges/Chartiers_Avenue_Bridge.jpg,Sheraden,2,20,42003202200,5,20,6,1-16,40.45291239,-80.05455502
+29,1690227401,Chestnut Street Bridge,East Allegheny,,1988,1988,https://tools.wprdc.org/images/pittsburgh/bridges/Chestnut_Street_Bridge.jpg,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45462243,-79.99428114
+30,707361176,Columbus Avenue Bridge,Manchester,California-Kirkbride,1905,1990,https://tools.wprdc.org/images/pittsburgh/bridges/Columbus_Avenue_Bridge.jpg,Manchester,6,21,42003210700,1,21,1,1-8,40.45842461,-80.02440622
+31,1633957439,Commercial Street Bridge,Squirrel Hill South,,1940,1940,https://tools.wprdc.org/images/pittsburgh/bridges/Commercial_Street_Bridge.jpg,Squirrel Hill South,5,14,42003141400,3,14,4,2-19,40.42609473,-79.90613359
+32,562030231,Corliss Street Tunnel,Elliott,Esplen,1913,1942,https://tools.wprdc.org/images/pittsburgh/bridges/Corliss_Street_Tunnel.jpg,Sheraden,2,20,42003562600,5,20,6,1-16,40.45247052,-80.04018731
+33,1319915134,Crane Avenue Bridge,Mount Washington,,1983,1983,https://tools.wprdc.org/images/pittsburgh/bridges/Crane_Avenue_Bridge.jpg,Mount Washington,4,19,42003191500,5,19,3,4-28,40.41700265,-80.01502282
+34,262339398,East Liberty Boulevard Bridge Northbound,Larimer,,1968,1968,https://tools.wprdc.org/images/pittsburgh/bridges/East_Liberty_Boulevard_Bridge_Northbound.jpg,Larimer,9,12,42003120800,2,12,5,3-10,40.46473774,-79.91882776
+35,205186808,East Liberty Boulevard Bridge Southbound,East Liberty,,1968,1968,https://tools.wprdc.org/images/pittsburgh/bridges/East_Liberty_Boulevard_Bridge_Southbound.jpg,East Liberty,9,11,42003111500,2,11,5,3-10,40.46462347,-79.91896858
+36,1019718164,East Street Service Bridge,Summer Hill,Perry North,1986,1986,https://tools.wprdc.org/images/pittsburgh/bridges/East_Street_Service_Bridge.jpg,Summer Hill,1,26,42003261200,1,26,1,1-15,40.48310896,-80.00768469
+37,1795072982,East Side Pedestrian Bridge Near S Highland Ave,Shadyside,,,,,Shadyside,8,7,42003070500,2,7,4,3-11,40.45852739,-79.92742361
+38,1913893398,Edgebrook Avenue Bridge,Bon Air,Brookline,1914,1975,https://tools.wprdc.org/images/pittsburgh/bridges/Edgebrook_Avenue_Bridge.jpg,Bon Air,4,32,42003562400,5,32,3,4-25,40.40202536,-80.00107491
+39,1563359794,Eads Street Bridge,Arlington,,1952,1952,,Arlington,3,16,42003561600,3,16,3,4-13,40.4123624,-79.96843593
+40,1070906249,Eliza Furnace Trail 2nd Avenue,Bluff,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Eliza_Furnace_Trail_2nd_Avenue.jpg,Bluff,6,1,42003010300,3,1,2,2-2,40.43496002,-79.98312642
+41,986903308,Eliza Furnace Trail Bates Street,South Oakland,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Eliza_Furnace_Trail_Bates_Street.jpg,South Oakland,3,4,42003980800,3,4,4,2-2,40.43132699,-79.9590147
+42,2030557349,Eliza Furnace Trail Brady Street,Bluff,South Oakland,,,https://tools.wprdc.org/images/pittsburgh/bridges/Eliza_Furnace_Trail_Brady_Street.jpg,Bluff,6,4,42003010300,3,4,2,2-2,40.43618799,-79.97296487
+43,831241962,Eliza Furnace Trail Greenfield Avenue Parking Lot,Hazelwood,,,,,Hazelwood,5,15,42003562900,3,15,4,2-12,40.42488832,-79.95272358
+44,12281037,Eliza Furnace Trail Maurice Street Bridge,South Oakland,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Eliza_Furnace_Trail_Maurice_Street_Bridge.jpg,South Oakland,6,4,42003980800,3,4,4,2-2,40.43492255,-79.96682057
+45,451697024,Eliza Furnace Trail Swinburne Street 1,Hazelwood,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Eliza_Furnace_Trail_Swinburne_Street_1.jpg,South Oakland,3,4,42003562900,3,4,4,2-12,40.42612057,-79.9534518
+46,497696193,Eliza Furnace Trail Swinburne Street 2,Hazelwood,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Eliza_Furnace_Trail_Swinburne_Street_2.jpg,Hazelwood,3,4,42003562900,3,4,4,2-12,40.42602052,-79.95361407
+47,252038884,Englewood Pedestrian Bridge,Overbrook,,1938,1986,,Overbrook,4,32,42003320700,5,32,3,4-25,40.38781564,-79.99681324
+48,1988317050,Franum St Bridge,Bon Air,,1981,1981,,Bon Air,4,18,42003562400,5,18,3,4-18,40.40617189,-80.00386365
+49,1178818331,Provost St Bridge,Overbrook,,1979,1979,,Overbrook,4,32,42003320700,5,32,3,4-25,40.37891768,-79.99375317
+50,1962872980,10th St Bypass off of Fort Duquesne Bridge Ramp,Central Business District,,1930,1930,,Central Business District,6,2,42003020100,6,2,2,1-3,40.44347045,-80.00594734
+51,2061579920,Finland Street Pedestrian Bridge,Polish Hill,,1986,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Finland_Street_Pedestrian_Bridge.jpg,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45799904,-79.96047703
+52,339222553,Fern Hollow Bridge,Regent Square,Point Breeze,1970,1970,,Point Breeze,9,14,42003981100,3,14,4,3-14,40.43952744,-79.90034099
+53,259287705,Forbes Avenue Bridge,Squirrel Hill North,North Oakland,1898,1983,,Squirrel Hill North,8,14,42003140100,3,14,4,2-9,40.44453274,-79.94670567
+54,378927944,Fort Duquesne Pedestrian Bridge,Central Business District,North Shore,,,https://tools.wprdc.org/images/pittsburgh/bridges/Fort_Duquesne_Pedestrian_Bridge.jpg,,6,,42003981200,,,,,40.44428724,-80.00947039
+55,253242687,Fort Pitt Blvd Wood St to Smithfield St,Central Business District,,1940,1940,,Central Business District,6,1,42003020100,6,1,2,1-4,40.43689245,-80.00192115
+56,1317416454,Frick Lane Parking Lot Road,Squirrel Hill South,,,,,Squirrel Hill South,5,14,42003141000,3,14,4,2-16,40.43091528,-79.90016624
+57,150410192,Fritz Street Pedestrian Bridge at Brosville St,Allentown,South Side Slopes,,,,Allentown,3,18,42003180300,5,18,3,4-5,40.42319679,-79.98858292
+58,1316908913,Corley St Bridge,Hays,,1951,1951,,Hays,5,31,42003562900,3,31,4,4-20,40.37996446,-79.93470786
+59,2137855309,Hot Metal St,South Side Flats,,2000,2000,,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42701957,-79.96269004
+60,441837715,Goettman Street Bridge,Troy Hill,,1949,1987,https://tools.wprdc.org/images/pittsburgh/bridges/Goettman_Street_Bridge.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45844774,-79.98767812
+61,820475036,30th St Bridge,Troy Hill,,1986,1986,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46387342,-79.97888922
+62,1088820206,Herron Avenue Bridge,Lower Lawrenceville,Polish Hill,1980,1980,https://tools.wprdc.org/images/pittsburgh/bridges/Herron_Avenue_Bridge.jpg,Lower Lawrenceville,7,6,42003060300,2,6,2,3-2,40.4604171,-79.96649428
+63,826965681,Hillburn Street Pedestrian Bridge,Hays,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Hillburn_Street_Pedestrian_Bridge.jpg,Hays,5,31,42003562900,3,31,4,4-20,40.38329607,-79.931452
+64,204423365,Hot Metal Pedestrian Bridge 1,South Oakland,South Side Flats,,,,,3,,42003160900,,,,,40.42857164,-79.96037363
+65,1667705177,Hot Metal Bridge,South Side Flats,South Oakland,1904,2000,,,3,,42003160900,,,,,40.42846122,-79.96039391
+66,1432148758,Hot Metal Street Pedestrian Bridge 2,South Oakland,,,,,South Oakland,3,4,42003980800,3,4,4,2-2,40.43010393,-79.95783338
+67,1663635743,Howard Street Pedestrian Bridge,Fineview,Spring Hill-City View,1989,1989,https://tools.wprdc.org/images/pittsburgh/bridges/Howard_Street_Pedestrian_Bridge.jpg,Spring Hill-City View,1,24,42003262000,1,24,1,1-24,40.46252333,-79.99950208
+68,1044698336,Lake Elizabeth Bridge 2 - West,Allegheny Center,,,,,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45333631,-80.01236041
+69,1463062856,Lake Elizabeth Bridge 1 - East,Allegheny Center,,,,,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45357603,-80.01197843
+70,447767422,Larimer Avenue Bridge 1,Larimer,Lincoln-Lemington-Belmar,1912,1980,https://tools.wprdc.org/images/pittsburgh/bridges/Larimer_Avenue_Bridge_1.jpg,Larimer,9,12,42003120400,2,12,5,3-12,40.46732092,-79.90900087
+71,1714459099,Larimer Avenue Bridge 2,Lincoln-Lemington-Belmar,,1904,1989,https://tools.wprdc.org/images/pittsburgh/bridges/Larimer_Avenue_Bridge_2.jpg,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-15,40.46771372,-79.90761551
+72,937476183,Lincoln Avenue Bridge,Lincoln-Lemington-Belmar,Larimer,1905,1979,https://tools.wprdc.org/images/pittsburgh/bridges/Lincoln_Avenue_Bridge.jpg,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-12,40.46269906,-79.90546736
+73,30672143,Lowe Street Pedestrian Bridge,West End,,1906,1982,https://tools.wprdc.org/images/pittsburgh/bridges/Lowe_Street_Pedestrian_Bridge.jpg,West End,2,20,42003562600,5,20,6,1-17,40.43378545,-80.03100736
+74,1622965510,Schenley Park Panther Hollow Trail 1,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43803807,-79.94561976
+75,2078542034,Schenley Park Panther Hollow Trail 2,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43583646,-79.94274107
+76,767193435,Schenley Park Panther Hollow Trail 3,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43546988,-79.9412377
+77,1231449765,Schenley Park Panther Hollow Trail 4,Squirrel Hill South,,1939,1939,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43394184,-79.93564339
+78,72322424,Lowrie Street Bridge,Troy Hill,,1900,2021,https://tools.wprdc.org/images/pittsburgh/bridges/Lowrie_Street_Bridge.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.46572788,-79.98119604
+79,398064299,Maple Avenue Bridge,Perry South,,1924,1924,https://tools.wprdc.org/images/pittsburgh/bridges/Maple_Avenue_Bridge.jpg,Perry South,6,26,42003261400,1,26,1,1-23,40.47114584,-80.00791054
+80,1736774459,Market Street Bridge,Central Business District,,1940,1940,https://tools.wprdc.org/images/pittsburgh/bridges/Market_Street_Bridge.jpg,Central Business District,6,1,42003020100,6,1,2,1-4,40.4379063,-80.0044543
+81,353385657,Meadow Street Bridge,Larimer,Highland Park,1914,1997,https://tools.wprdc.org/images/pittsburgh/bridges/Meadow_Street_Bridge.jpg,Larimer,9,12,42003120400,2,12,5,3-12,40.46679064,-79.91590269
+82,1738076409,Melanchton Street Pedestrian Bridge,Hazelwood,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Melanchton_Street_Pedestrian_Bridge.jpg,Hazelwood,5,15,42003562900,3,15,4,2-13,40.40363779,-79.94388429
+83,1651528236,Midwood Avenue Pedestrian Bridge,Brookline,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Midwood_Avenue_Pedestrian_Bridge.jpg,Overbrook,4,32,42003320600,5,32,3,4-25,40.39285078,-79.99755463
+84,1982940391,Milroy Street Bridge,Northview Heights,Perry North,1986,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Milroy_Street_Bridge.jpg,Northview Heights,1,26,42003260900,1,26,1,1-13,40.47672672,-80.00768558
+85,454627966,Mission Street Bridge East,South Side Slopes,,1939,1982,https://tools.wprdc.org/images/pittsburgh/bridges/Mission_Street_Bridge_East.jpg,South Side Slopes,3,16,42003160800,3,16,3,4-24,40.42323183,-79.97431218
+86,14311106,Mission Street Bridge West,South Side Slopes,,1939,1982,https://tools.wprdc.org/images/pittsburgh/bridges/Mission_Street_Bridge_West.jpg,South Side Slopes,3,17,42003160800,3,17,3,4-24,40.42358304,-79.9767758
+87,2024131946,Murray Avenue Bridge,Greenfield,Squirrel Hill South,1978,1978,https://tools.wprdc.org/images/pittsburgh/bridges/Murray_Avenue_Bridge.jpg,Squirrel Hill South,5,14,42003141400,3,14,4,2-15,40.42702354,-79.92681159
+88,1291404694,Nine Mile Run Boardwalk,Squirrel Hill South,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Nine_Mile_Run_Boardwalk.jpg,Squirrel Hill South,5,14,42003980300,3,14,4,2-20,40.42643736,-79.90532606
+89,523191305,Nine Mile Run Trail Pedestrian Bridge,Squirrel Hill South,Swisshelm Park,,,,Squirrel Hill South,5,14,42003141400,3,14,4,2-19,40.41966925,-79.91268394
+90,149884025,W North Ave and Brighton Rd Bridge,Allegheny Center,Central Northside,1929,1929,,Allegheny West,1,22,42003562700,1,22,1,1-7,40.45386939,-80.01480179
+91,1701028337,E North Avenue Bridge,East Allegheny,,1987,1987,,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45709157,-79.9983551
+92,1951085879,North Lang Avenue Pedestrian Bridge,Point Breeze North,Homewood South,1980,1980,https://tools.wprdc.org/images/pittsburgh/bridges/North_Lang_Avenue_Pedestrian_Bridge.jpg,Homewood South,9,13,42003130300,2,13,4,3-17,40.45356677,-79.90090351
+93,500245006,Hill Rd Bridge,Highland Park,,1940,1940,,Highland Park,7,11,42003980100,2,11,5,3-9,40.48312185,-79.91989552
+94,920365328,Overbrook Way Pedestrian Bridge,Overbrook,,1924,1924,https://tools.wprdc.org/images/pittsburgh/bridges/Overbrook_Way_Pedestrian_Bridge.jpg,Overbrook,4,32,42003320700,5,32,3,4-25,40.38516241,-79.99566171
+95,1498814681,Panther Hollow Rd Bridge,Squirrel Hill South,,1895,1981,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.4371577,-79.9468026
+96,2100602905,Penn Avenue Bridge,Shadyside,East Liberty,1983,1983,https://tools.wprdc.org/images/pittsburgh/bridges/Penn_Avenue_Bridge.jpg,East Liberty,9,7,42003111500,2,7,4,3-11,40.45991099,-79.92097089
+97,1407799522,Pennsylvania Avenue Bridge,Central Northside,California-Kirkbride,1986,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Pennsylvania_Avenue_Bridge.jpg,California-Kirkbride,1,25,42003220600,1,25,1,1-9,40.45561803,-80.01796695
+98,988708906,Pensdale Street Bridge 1,Oakwood,,1937,1937,https://tools.wprdc.org/images/pittsburgh/bridges/Pensdale_Street_Bridge_1.jpg,Oakwood,2,28,42003562800,5,28,6,1-19,40.42741268,-80.06377953
+99,781196343,Pensdale Street Bridge 2,Oakwood,,1937,1937,https://tools.wprdc.org/images/pittsburgh/bridges/Pensdale_Street_Bridge_2.jpg,Oakwood,2,28,42003562800,5,28,6,1-19,40.42798904,-80.06434382
+100,404921280,PJ McArdle Roadway Bridge Lower,South Shore,Mount Washington,1983,1983,https://tools.wprdc.org/images/pittsburgh/bridges/PJ_McArdle_Roadway_Bridge_Lower.jpg,Mount Washington,3,18,42003191400,5,18,3,4-27,40.43040516,-80.00244398
+101,1444537238,PJ McArdle Roadway Bridge Upper,Mount Washington,,1929,1984,https://tools.wprdc.org/images/pittsburgh/bridges/PJ_McArdle_Roadway_Bridge_Upper.jpg,Mount Washington,2,19,42003190300,5,19,3,4-27,40.43539091,-80.01225759
+102,1260503903,PJ McArdle Viaduct 1,South Side Flats,South Side Slopes,1933,1933,https://tools.wprdc.org/images/pittsburgh/bridges/PJ_McArdle_Viaduct_1.jpg,South Side Flats,3,17,42003170200,3,17,3,4-2,40.42771682,-79.9923787
+103,209059012,PJ McArdle Viaduct 2,South Side Slopes,,1934,1934,https://tools.wprdc.org/images/pittsburgh/bridges/PJ_McArdle_Viaduct_2.jpg,South Side Slopes,3,18,42003170600,3,18,3,4-2,40.42900877,-79.99746644
+104,2002152068,Radcliffe Street Bridge,Sheraden,Esplen,1983,1983,https://tools.wprdc.org/images/pittsburgh/bridges/Radcliffe_Street_Bridge.jpg,Sheraden,2,20,42003562500,5,20,6,1-16,40.46106812,-80.05443437
+105,683085715,Ramp Q Bridge,East Allegheny,,1987,2001,https://tools.wprdc.org/images/pittsburgh/bridges/Ramp_Q_Bridge.jpg,East Allegheny,1,23,42003563200,1,23,1,1-24,40.45856189,-79.99878173
+106,187158805,Reservoir Drive Bridge,Highland Park,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Reservoir_Drive_Bridge.jpg,Highland Park,7,11,42003980100,2,11,5,3-9,40.48114134,-79.91734043
+107,123727814,Ridge Avenue Bridge,Allegheny West,,1903,1957,https://tools.wprdc.org/images/pittsburgh/bridges/Ridge_Avenue_Bridge.jpg,Allegheny West,1,22,42003562700,1,22,1,1-7,40.4511959,-80.0102667
+108,650860947,River Avenue Viaduct,Troy Hill,,,1986,https://tools.wprdc.org/images/pittsburgh/bridges/River_Avenue_Viaduct.jpg,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46371765,-79.97989567
+109,421625701,Robert McAfee Bridge,Marshall-Shadeland,,1928,1981,https://tools.wprdc.org/images/pittsburgh/bridges/Robert_McAfee_Bridge.jpg,Marshall-Shadeland,1,27,42003271500,1,27,1,1-14,40.4716081,-80.03688311
+110,2123274085,Schenley Drive Bridge,North Oakland,Squirrel Hill South,1896,1981,https://tools.wprdc.org/images/pittsburgh/bridges/Schenley_Drive_Bridge.jpg,Squirrel Hill North,5,14,42003140100,3,14,4,2-8,40.44132945,-79.94919899
+111,381719968,Panther Hollow Overpass,Squirrel Hill South,,1939,1988,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43531853,-79.94662425
+112,2122763222,Shadeland Avenue Bridge,Marshall-Shadeland,Brighton Heights,1993,1993,https://tools.wprdc.org/images/pittsburgh/bridges/Shadeland_Avenue_Bridge.jpg,Marshall-Shadeland,1,27,42003271500,1,27,1,1-14,40.47608064,-80.03269282
+113,524537943,Shaler Street Bridge,West End,,1900,1979,https://tools.wprdc.org/images/pittsburgh/bridges/Shaler_Street_Bridge.jpg,West End,2,20,42003562600,5,20,6,1-17,40.43268081,-80.02985044
+114,881766913,South 10th Street Pedestrian Bridge,South Side Flats,South Side Slopes,2001,2001,https://tools.wprdc.org/images/pittsburgh/bridges/South_10th_Street_Pedestrian_Bridge.jpg,South Side Slopes,3,17,42003170600,3,17,3,4-24,40.42636063,-79.98863051
+115,864685367,South 12th Street Bridge,South Side Flats,South Side Slopes,1901,1972,https://tools.wprdc.org/images/pittsburgh/bridges/South_12th_Street_Bridge.jpg,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42581048,-79.98580057
+116,1337504193,South 15th Street Pedestrian Bridge,South Side Flats,South Side Slopes,2001,2001,https://tools.wprdc.org/images/pittsburgh/bridges/South_15th_Street_Pedestrian_Bridge.jpg,South Side Slopes,3,17,42003170600,3,17,3,4-24,40.42538533,-79.98357191
+117,1886402445,South 27th Street Railroad Tunnel,South Side Flats,,,,https://tools.wprdc.org/images/pittsburgh/bridges/South_27th_Street_Railroad_Tunnel.jpg,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42869177,-79.96526496
+118,1458760894,South 28th Street Railroad Tunnel,South Side Flats,,,,https://tools.wprdc.org/images/pittsburgh/bridges/South_28th_Street_Railroad_Tunnel.jpg,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42783169,-79.96396743
+119,739242121,South Aiken Avenue Bridge,Shadyside,,1979,1979,https://tools.wprdc.org/images/pittsburgh/bridges/South_Aiken_Avenue_Bridge.jpg,Shadyside,8,7,42003070900,2,7,4,3-22,40.45378013,-79.93732225
+120,826418840,South Graham Street Pedestrian Bridge,Shadyside,,1979,1979,https://tools.wprdc.org/images/pittsburgh/bridges/South_Graham_Street_Pedestrian_Bridge.jpg,Shadyside,8,7,42003070900,2,7,4,3-22,40.45468965,-79.93528652
+121,1348188774,South Highland Avenue Bridge,Shadyside,,1925,2013,https://tools.wprdc.org/images/pittsburgh/bridges/South_Highland_Avenue_Bridge.jpg,Shadyside,8,7,42003070800,2,7,4,3-11,40.45905074,-79.92510076
+122,2115516239,South Millvale Avenue Bridge,Bloomfield,,1927,1972,https://tools.wprdc.org/images/pittsburgh/bridges/South_Millvale_Avenue_Bridge.jpg,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45711666,-79.94748149
+123,1124586979,South Negley Avenue Bridge,Shadyside,,1924,1973,https://tools.wprdc.org/images/pittsburgh/bridges/South_Negley_Avenue_Bridge.jpg,Shadyside,8,7,42003070900,2,7,4,3-11,40.45622312,-79.93344377
+124,1770746602,Stanwix Street Bridge,Central Business District,,1940,1979,https://tools.wprdc.org/images/pittsburgh/bridges/Stanwix_Street_Bridge.jpg,Central Business District,6,1,42003020100,6,1,2,1-4,40.4384425,-80.0058165
+125,183525377,Swinburne Street Bridge,Greenfield,South Oakland,1915,1989,https://tools.wprdc.org/images/pittsburgh/bridges/Swinburne_Street_Bridge.jpg,Greenfield,5,15,42003151600,3,15,4,2-12,40.42650873,-79.95036465
+126,760187504,Swindell Bridge,Spring Hill-City View,Perry South,1930,1989,https://tools.wprdc.org/images/pittsburgh/bridges/Swindell_Bridge.jpg,Perry South,6,26,42003261500,1,26,1,1-23,40.47215779,-80.0052522
+127,1839741682,E Sycamore Street Bridge,South Shore,,1984,1984,,South Shore,3,18,42003980700,5,18,3,4-27,40.43054776,-80.00207463
+128,1354744519,Timberland Avenue Bridge,Bon Air,,1909,1986,https://tools.wprdc.org/images/pittsburgh/bridges/Timberland_Avenue_Bridge.jpg,Bon Air,4,18,42003562400,5,18,3,4-18,40.41037382,-80.00628696
+129,570392529,Tripoli Street Bridge,East Allegheny,,1987,1987,https://tools.wprdc.org/images/pittsburgh/bridges/Tripoli_Street_Bridge.jpg,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45649937,-79.9981385
+130,886405226,Troy Hill Road Bridge,Troy Hill,,1965,,https://tools.wprdc.org/images/pittsburgh/bridges/Troy_Hill_Road_Bridge.jpg,Troy Hill,1,24,42003240600,1,24,1,1-2,40.4580786,-79.9879004
+131,1794040291,Calera St to Baldwin Rd Pedestrian Bridge,Hays,,1985,1985,,Hays,5,31,42003562900,3,31,4,4-20,40.38336383,-79.93336175
+132,1530553272,Herr's Island Railroad Pedestrian Bridge,Troy Hill,,,,,,1,,42003240600,,,,1-1,40.46017181,-79.98187976
+133,680694681,West Carson Street Bridge,Esplen,,1925,1978,https://tools.wprdc.org/images/pittsburgh/bridges/West_Carson_Street_Bridge.jpg,Esplen,2,20,42003562500,5,20,6,1-27,40.4648495,-80.05349677
+134,1958627636,West Carson Street Canitlevered Sidewalk,Elliott,,,,,Elliott,2,20,42003562600,5,20,6,1-17,40.44949491,-80.03500425
+135,862801435,Elizabeth Street Bridge,Hazelwood,,1940,1940,https://tools.wprdc.org/images/pittsburgh/bridges/Elizabeth_Street_Bridge.jpg,Hazelwood,5,15,42003562900,3,15,4,2-13,40.40692458,-79.94430256
+136,1110273438,West End Circle Bridge,West End,,,,https://tools.wprdc.org/images/pittsburgh/bridges/West_End_Circle_Bridge.jpg,West End,2,20,42003562600,5,20,6,1-17,40.44301592,-80.03076189
+137,2065861344,West Ohio Street Bridge,Allegheny Center,Allegheny West,1903,2021,https://tools.wprdc.org/images/pittsburgh/bridges/West_Ohio_Street_Bridge.jpg,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45162656,-80.01067574
+138,1455053898,Wilksboro Avenue Pedestrian Bridge - CLOSED,Brighton Heights,,1900,1933,,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48591809,-80.04535451
+139,796441646,Wood Street Bridge,Central Business District,,1940,1981,https://tools.wprdc.org/images/pittsburgh/bridges/Wood_Street_Bridge.jpg,Central Business District,6,1,42003020100,6,1,2,1-4,40.43729206,-80.00274426
+140,1178900529,MacFarren St Bridge,Swisshelm Park,Squirrel Hill South,2020,,https://tools.wprdc.org/images/pittsburgh/bridges/MacFarren_St_Bridge.jpg,Swisshelm Park,5,14,42003141400,3,14,4,2-12,40.4155257,-79.91633599
+141,1806102340,Falls Ravine Trail Bridge,Squirrel Hill South,Regent Square,,,https://tools.wprdc.org/images/pittsburgh/bridges/Falls_Ravine_Trail_Bridge.png,Regent Square,5,14,42003141000,3,14,4,2-16,40.43253371,-79.89962384
+174,67438686,Chartiers Park 1,Windgap,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Chartiers_Park_1.jpg,Windgap,2,28,42003563000,5,28,6,1-16,40.45694069,-80.07522388
+175,912954902,Chartiers Park 2,Windgap,,,,https://tools.wprdc.org/images/pittsburgh/bridges/Chartiers_Park_2.jpg,Windgap,2,28,42003563000,5,28,6,1-16,40.45744761,-80.07513646
+207,1036251263,Broome St Pedestrian Bridge,Hays,,,,,Hays,5,31,42003562900,3,31,4,4-20,40.38829126,-79.93244304
+208,1283127113,Centre Ave Over Crosstown Blvd,Central Business District,,,,,Central Business District,6,3,42003020100,6,3,2,2-4,40.44032203,-79.99307023
+209,1914248226,Fort Pitt Blvd Commonwealth St to Wood St,Central Business District,,,,,Central Business District,6,1,42003020100,6,1,2,1-4,40.438117,-80.00535057
+210,656617449,Frankie Mae Pace Park,Central Business District,,,,,Central Business District,6,2,42003020100,6,2,2,2-4,40.44084356,-79.99273467
+211,160440158,Hillview St,Overbrook,,,,,Overbrook,4,32,42003320700,5,32,3,4-25,40.38192386,-79.99605661
+212,376718430,Mon Wharf Switchback Pedestrian Bridge,Central Business District,,,,,Central Business District,6,1,42003020100,6,1,2,1-4,40.43604654,-80.00073147
+213,194561465,North Shore Dr,North Shore,,,,,North Shore,1,22,42003981200,6,22,1,1-7,40.44507853,-80.01471847
+214,1948002875,Parking Lot Bridge at Woodruff St,Mount Washington,,,,,Mount Washington,2,19,42003191400,5,19,3,4-27,40.42558607,-80.0196472
+215,80776488,Seventh Ave,Central Business District,,,,,Central Business District,6,2,42003020100,6,2,2,1-3,40.44192104,-79.99428751
+240,202708027,Crosstown Blvd Pedestrian Bridge,Central Business District,,,,,Central Business District,6,3,42003020100,6,3,2,2-4,40.44017756,-79.9927651

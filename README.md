@@ -13,6 +13,6 @@ For our Final Project, we decided that the best neighborhood in Pittsburgh would
 2. City Traffic Signs - records the number of traffic signs/lights in each neighborhood
 3. City Bridges - records the start and end neighborhoods of each bridge in the city of Pittsburgh
 
-## Overview
+## Overview:
 This repository is for our Big Ideas Final Project depicting the best neighborhood in Pittsburgh based on a singular metric. For our project, we decided that our metric would be the best neighborhood to film Cars 4.
 
